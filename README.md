@@ -1,8 +1,8 @@
-# Fitness-Trainer-app-UI
+# Fitness-app-UI
 
 Simple & Dynamic App UI Using Flutter Framework.
 
-Fitness Trainer App UI is a design implementaion of [Fitness App](https://dribbble.com/shots/4217263-Fitness-App) designed by [Marko Stupic](https://dribbble.com/sweetness-every-day)
+Fitness App UI is a design implementaion of [Fitness App](https://dribbble.com/shots/4217263-Fitness-App) designed by [Marko Stupic](https://dribbble.com/sweetness-every-day)
 
 ## Download App 
 <a href="https://github.com/arkinginfotech/fitness-app-ui/blob/master/apk/fitness-app.apk?raw=true"><img src="https://playerzon.com/asset/download.png" width="200"></img></a>
