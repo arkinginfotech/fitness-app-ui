@@ -8,8 +8,6 @@ Fitness App UI is a design implementaion of [Fitness App](https://dribbble.com/s
 <a href="https://github.com/arkinginfotech/fitness-app-ui/blob/master/apk/fitness-app.apk?raw=true"><img src="https://playerzon.com/asset/download.png" width="200"></img></a>
 
 
-![alt text](https://github.com/arkinginfotech/fitness-app-ui/blob/master/Screenshots/fit_cover.png)
-
 ### Don't forget to star ⭐ the repo, it motivates me to share more open source
 
 ### Android Screenshots
