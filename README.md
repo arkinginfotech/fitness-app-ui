@@ -31,8 +31,8 @@ I welcome and encourage all pull requests. It usually will take me within 24-48 
 
 ### Created & Maintained By
 
-[Rahul Samantara](https://github.com/developerRsam) ([Facebook](https://www.facebook.com/rahul.samantara.39))
-([Insta](https://www.instagram.com/_mr_wanderlust/))([Insta2](https://www.instagram.com/rsdesigndevstudio/))
+[Arking Infotech](https://github.com/arkinginfotech) ([Facebook](https://www.facebook.com/arkinginfotech))
+([Insta](https://www.instagram.com/arkinginfotech/))([Insta2](https://www.instagram.com/rsdesigndevstudio/))
 
 > If you found this project helpful or you have learned something from the source code and want to thank me, consider buying me a cup of :coffee:
 >
